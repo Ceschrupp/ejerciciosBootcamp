@@ -1,0 +1,50 @@
+body{
+    background: #CCFFFF;
+    color: #14171a;
+    font-size: 14px;
+    line-height: 18px;
+    overflow-y: scroll;
+}
+
+.tweet img {
+  width: 40px;
+  height: 40px;
+  float:left
+}
+
+.tweet {
+  margin: 5px;
+  border: 1px solid gray;
+  background-color: #fff;
+}
+.tweet:hover{
+  background-color: #E0E0E0;
+
+}
+
+.user {
+  color: gray;
+}
+#feed{
+  margin: 0 auto;
+  width: 60%;
+
+}
+#boton{
+
+  width: 60%;
+  margin: 0 auto;
+}
+*{
+  box-sizing: border-box;
+}
+
+.container{
+text-align: center;
+
+}
+#pajaro{
+    width: 35px;
+    height: 35px;
+
+  }
